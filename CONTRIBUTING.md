@@ -26,7 +26,7 @@ Having a running version of FarmData2 is a prerequisite for many of the forms of
 
 #### Bug Reports ####
 
-If you are are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
+If you are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
 
   * Reach out to the community on the [Zulip Developer Stream](https://farmdata2.zulipchat.com/#narrow/stream/271292-developers) to discuss what you have found and how to proceed.
   * Search the [Issue Tracker] to see if the bug has been reported already.
@@ -37,7 +37,7 @@ If you are are a user of FarmData2 and discover something that doesn't seem to b
 
 #### Feature Requests ####
 
-If you are are a user of FarmData2 and have a new feature you would like to see you can:
+If you are a user of FarmData2 and have a new feature you would like to see you can:
 
   * Reach out to the community on the [Zulip Developer Stream](https://farmdata2.zulipchat.com/#narrow/stream/271292-developers) to discuss the feature you'd like to see and how to proceed.
   * Search the [Issue Tracker] to see if the feature, or something close, has already been suggested by someone.
@@ -82,7 +82,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * Fork the _upstream_ repository to your GitHub (the _origin_).
   * [Clone] the _origin_ repository to your local machine.
   * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
-  * Create a _feature branch_ from the _main_ branch your local machine.
+  * Create a _feature branch_ from the _main_ branch on your local machine.
   * Make the edits to the documentation or the code in your _feature branch_.
   * Commit your edits.
     * If the contribution reflects the work of multiple people, ensure that everyone receives attribution by [Creating a commit with multiple authors].
