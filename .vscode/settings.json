@@ -1,0 +1,10 @@
+{
+    // Other settings...
+    
+    "git.mergeTool": "vscode",
+    "git.merge.conflictEditor": true,
+    "editor.codeLens": true,
+    "gitlens.codeLens.enabled": true,
+    // Any other settings related to merge tool display that you can find in your GUI settings.
+    
+}
